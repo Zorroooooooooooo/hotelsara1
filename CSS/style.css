@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital@1&family=Lora:ital,wght@1,500&display=swap');
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+/* Colors and fonts */
+
+body {
+	font-family: 'EB Garamond', serif;
+  font-size: 18px;
+  margin: 0px;
+  background-color: whitesmoke;
+
+}
+
+
+
+h1, h2, h3, h4 {
+	font-family: 'Lora', serif;
+	font-weight: bold;
+}
+
+h1 {
+	color: White;
+	font-size: 40px;
+	font-weight: 900;
+}
+
+h2 {
+	color: white;
+	font-size: 20px;
+	font-weight: bolder;
+	font-weight: 900;
+}
+
+
+a { 
+  font-family: 'Lora', serif;
+  color: white;
+  font-weight: 600;
+  font-size: 16px;
+  text-decoration: none;
+  font-weight: bold;
+ }
+ a:hover {
+ 	color: black;
+ }
+
